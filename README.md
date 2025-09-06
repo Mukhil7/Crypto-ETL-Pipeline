@@ -8,7 +8,7 @@ Project Contents
 
 ================
 
-Your project contains the following files and folders:
+This project contains the following files and folders:
 
 dags: Contains the Python files for your Airflow DAGs. For example:
 
